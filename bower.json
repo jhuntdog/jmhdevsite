@@ -1,0 +1,16 @@
+{
+  "name": "jmhdev",
+  "version": "0.0.2",
+  "private": true,
+  "main": "docpad.coffee",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "~2.x",
+    "normalize-css": "*",
+    "respond": "*"
+  }
+}
